@@ -1,4 +1,4 @@
-# Analyzing Effects of Aspect Features on Bert Performance on SentimentClassification on Financial Microblog and Headlines Dataset
+# Analyzing Effects of Aspect Features on Bert Performance on Sentiment Classification on Financial Microblog and Headlines Dataset
 we plan to leverage Bert for aspect-based sentiment classification, using data presented as subtask I of Financial Opinion Mining and Question Answering Open Challenge. We will focus on two questions:
 1. How does different levels of aspect data influence the performance in the Bert model?
 2. How does aspect data helps in sentiment classification?
